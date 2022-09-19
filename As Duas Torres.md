@@ -15,16 +15,12 @@ Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman,
  
 Exemplos de Entrada	Exemplos de Saída
 
-100 2 2
-
-25.00
+100 2 2 | 25.00
 
  
 
 Exemplos de Entrada	Exemplos de Saída
 
-200 3 8	
-
-18.18
+200 3 8	| 18.18
 
 IX Olimpíada Interna de Programação do IFSULDEMINAS - OLIP 2019
