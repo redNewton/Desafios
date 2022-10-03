@@ -13,15 +13,15 @@ Um único caracter N, uma letra maiúscula ('A'-'Z') do alfabeto (que contém 26
 Um único inteiro, que representa a posição da letra no alfabeto.
 
  
-Exemplo de Entrada	Exemplo de Saída
+Exemplo de Entrada |	Exemplo de Saída
 
-C                   3
+C | 3
 
-J	                  10
+J | 10
 
-Z                   26                         
+Z | 26                         
 
-A                 	1        
+A | 1        
 
 
 '''
